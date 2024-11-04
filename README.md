@@ -4,13 +4,15 @@
 Vídeo sobre o turmismo no Bairro da Liberdade SP
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para roteirização e revisão;
+IA Generativa D-ID para sintetização de voz e geração de avatar virtual;
+Software Adobe Premiere para edição de vídeo.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. A montagem e edição foram realizadas no Adobe Premiere para garantir qualidade profissional.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O vídeo é um mini guia turístico do bairro da Liberdade, São Paulo.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Este projeto é uma experiência inovadora para mim.
